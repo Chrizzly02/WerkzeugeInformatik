@@ -6,7 +6,7 @@ public class Main {
         Car car1 = new Car("red", "BMW", 5);
 <<<<<<< HEAD
         Car car2 = new Car("green", "Audi", 3);
-        Car car3 = new Car("cyan", "Mercedes-Benz", 3);
+        Car car3 = new Car("cyan", "Mercedes", 3)
 
         Car car4 = new Car("yellow", "Renault", 4);
 
